@@ -14,7 +14,7 @@
 	<name>rakutech-app</name>
 	<description>Rakutech Spring Boot, Spring MVC and ReactJS</description>
 	<properties>
-		<java.version>16</java.version>
+<!--		<java.version>16</java.version>-->
 	</properties>
 	<dependencies>
 <!--		<dependency>-->
